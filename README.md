@@ -19,5 +19,5 @@ the user random quotes and calculates the user's accuracy.
 * JavaFx
 * SceneBuilder
 	
-## NOTE --
+## Note
    JavaFx sdk needed to run 
