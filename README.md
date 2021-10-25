@@ -18,6 +18,8 @@ the user random quotes and calculates the user's accuracy.
 * Java
 * JavaFx
 * SceneBuilder
-	
+
+![Alt text](typeracer3.jpg?raw=true "Title")
+
 ## Note
    JavaFx sdk needed to run 
