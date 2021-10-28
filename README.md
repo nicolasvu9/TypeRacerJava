@@ -24,7 +24,6 @@ the user random quotes and calculates the user's accuracy.
 ![Alt text](typeracer4.jpg?raw=true "Title")
 
 
-https://youtu.be/hcoxUdfJqPc
-
+https://youtu.be/ljirnj5wYfo
 ## Note
    JavaFx sdk needed to run 
